@@ -3,7 +3,7 @@ A GPT-3 App built with React
 <h1 align="center">Hi 👋, I'm Mauricio Marin Lucero</h1>
 <h3 align="center">A passionate Frontend Developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Proyecto---Coderhouse](https://github.com/MauriML/ReactApp.git)
+- 🔭 I’m currently working on [React App](https://github.com/MauriML/ReactApp.git)
 
 - 📫 How to reach me **mauriciomarinlucero@gmail.com**
 
